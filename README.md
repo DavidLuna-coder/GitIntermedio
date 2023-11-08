@@ -34,3 +34,17 @@ Los comandos que el alumno 1 ha utilizado para desarrollar los ejercicios 1 y 5 
 
 `git push origin main`
 
+### Desarrollo del ejercicio 7 (Alumno 2)
+Se ha creado la rama con el comando:
+
+`git branch ramaAlno2`
+
+Y para renombrarla a un nombre que no de toc:
+
+`git branch -m ramaAlno2 ramaAlumno2`
+
+A continuación nos movemos a nuestra rama con
+
+`git checkout ramaAlumno2`
+
+Para trabajar aquí en lo que sigue de práctica.
