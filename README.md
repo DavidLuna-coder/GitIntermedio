@@ -34,3 +34,6 @@ Los comandos que el alumno 1 ha utilizado para desarrollar los ejercicios 1 y 5 
 
 `git push origin main`
 
+## Desarrollo del ejercicio 8
+
+El comando a utilizar para mostrar las ramas del proyecto es `git branch`. La rama con asterisco indica la rama en la que estamos situados actualmente.
