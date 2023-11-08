@@ -58,3 +58,10 @@ Vemos que una tiene un asterisco, que marca la rama en la que nos encontramos ac
 
 ## Desarrollo del ejercicio 9 (Alumno 2)
 El alumno 2 ya se encuentra en su rama, por lo que no es necesario moverse a ella. Creamos el fichero cliente.java y realizamos el `add` y el `commit` correspondientes, sin subirlo al remoto todavía.
+
+## Desarrollo del ejercicio 10 (Alumno 2)
+Para visualizar las diferencias entre ramas, utilizamos el comando:
+
+`git diff main ramaAlumno2`
+
+El alumno 2 ha completado la tarea en 1 minuto 33 segundos, por lo que conservará el trabajo :D.
