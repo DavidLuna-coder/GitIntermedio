@@ -34,9 +34,27 @@ Los comandos que el alumno 1 ha utilizado para desarrollar los ejercicios 1 y 5 
 
 `git push origin main`
 
+## Desarrollo del ejercicio 7
+Se ha creado la rama con el comando:
+
+`git branch ramaAlno2`
+
+Y para renombrarla a un nombre que no de toc:
+
+`git branch -m ramaAlno2 ramaAlumno2`
+
+A continuación nos movemos a nuestra rama con
+
+`git checkout ramaAlumno2`
+
+Para trabajar aquí en lo que sigue de práctica.
+
 ## Desarrollo del ejercicio 8
 
 El comando a utilizar para mostrar las ramas del proyecto es `git branch`. La rama con asterisco indica la rama en la que estamos situados actualmente.
+
+## Desarrollo del ejercicio 9
+El alumno 2 ya se encuentra en su rama, por lo que no es necesario moverse a ella. Creamos el fichero cliente.java y realizamos el `add` y el `commit` correspondientes, sin subirlo al remoto todavía.
 
 ## Desarrollo del ejercicio 10
 
