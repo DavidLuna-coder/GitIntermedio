@@ -5,7 +5,11 @@ Los integrantes del proyecto, junto a sus roles, son:
 * Alejandro Guitarte Fernández (Alumno 2)
 * Alejandro Sánchez Castillo (Alumno 2)
 
-## Comandos realizados por alumno 1 en el ejercicio 1 y 5.
+Cabe destacar que hay dos "Alumno2", lo que significa que ambos desarrollarán las mismas tareas.
+
+## Desarrollos de los ejercicios 1 y 5
+Los comandos que el alumno 1 ha utilizado para desarrollar los ejercicios 1 y 5 son los siguientes:
+
 `git init`
 
 `git branch -m main`
@@ -29,3 +33,4 @@ Los integrantes del proyecto, junto a sus roles, son:
 `git commit -m "Actualizado README.md"`
 
 `git push origin main`
+
