@@ -55,3 +55,6 @@ Se pueden consultar todas las ramas del sistema con:
 `git branch`
 
 Vemos que una tiene un asterisco, que marca la rama en la que nos encontramos actualmente.
+
+## Desarrollo del ejercicio 9 (Alumno 2)
+El alumno 2 ya se encuentra en su rama, por lo que no es necesario moverse a ella. Creamos el fichero cliente.java y realizamos el `add` y el `commit` correspondientes, sin subirlo al remoto todavía.
