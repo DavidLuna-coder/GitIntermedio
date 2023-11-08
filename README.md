@@ -38,3 +38,10 @@ Los comandos que el alumno 1 ha utilizado para desarrollar los ejercicios 1 y 5 
 
 El comando a utilizar para mostrar las ramas del proyecto es `git branch`. La rama con asterisco indica la rama en la que estamos situados actualmente.
 
+## Desarrollo del ejercicio 10
+
+El comando para ver la diferencia entre dos ramas es:
+`git diff ramaAlumno1 main`
+
+Básicamente consiste en ejecutar el comando de `git diff <rama1> <rama2>`.
+Este ejercicio se realizó en menos de dos minutos. Hoy se come 🙂
