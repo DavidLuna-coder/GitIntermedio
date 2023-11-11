@@ -13,4 +13,6 @@ Realización del ejercicio 4:
 
 `git add README2.md`
 
+`git status`
+
 `git commit -m "Creación de README2`
