@@ -7,6 +7,9 @@ Los integrantes del proyecto, junto a sus roles, son:
 
 Cabe destacar que hay dos "Alumno2", lo que significa que ambos desarrollarán las mismas tareas.
 
+## Repositorio GitHub
+https://github.com/DavidLuna-coder/GitIntermedio
+
 ## Desarrollos de los ejercicios 1 y 5
 Los comandos que el alumno 1 ha utilizado para desarrollar los ejercicios 1 y 5 son los siguientes:
 
@@ -67,3 +70,8 @@ Este ejercicio se realizó en menos de dos minutos. Hoy se come 🙂
 ## Desarrollo del ejercicio 11
 
 En este ejercicio, ha habido un conflicto con el README.md, ya que cada alumno ha estado documentando sus ejercicios por separados. Cuando el alumno 2 (último en subir los cambios) hizo el pull y el merge, tuvo que solucionar los conflictos.
+
+## Desarrollo del ejercicio 13
+Para exportar el repositorio usamos el siguiente comando:
+
+`git archive --format=zip main > ../Git_Intermedio.zip`
