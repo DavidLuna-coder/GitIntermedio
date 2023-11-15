@@ -78,13 +78,14 @@ Para exportar el repositorio usamos el siguiente comando:
 
 `git archive --format=zip main > ../Git_Intermedio.zip`
 
+
+## Desarrollo del ejercicio 15
+Alumno 4:
+- Crear la rama ramaAlumno4: git branch ramaAlumno4
+- Publicar rama en repositorio remoto: git commit "Creación rama ramaAlumno4",  git push --set-upstream origin ramaAlumno4
+
+
 ## Desarrollo del ejercicio 17
-El comando empleado es el siguiente:
-
-Alumno 2:
-
-`git whatchanged --pretty=format:"%h %an %cn %s"`
-
-Alumno 3:
-
-`git whatchanged --pretty=format:"%h %an %cn %s"`
+Alumno 4:
+- Ver diferencias entre ramaAlumno4 y main: git diff ramaAlumno4..main
+- Ver historial con formato sha1, autor, commit, mensaje : git log --pretty=format:"%h - %an, %ar : %s"
