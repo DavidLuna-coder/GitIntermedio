@@ -77,3 +77,8 @@ En este ejercicio, ha habido un conflicto con el README.md, ya que cada alumno h
 Para exportar el repositorio usamos el siguiente comando:
 
 `git archive --format=zip main > ../Git_Intermedio.zip`
+
+
+## Desarrollo del ejercicio 15
+Crear la rama ramaAlumno4: git branch ramaAlumno4
+
