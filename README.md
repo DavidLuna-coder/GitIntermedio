@@ -90,4 +90,4 @@ Modificacion de fichero
 
 ## Desarrollo del ejercicio 17
 Ver las diferencias
-Alumno 3: `git whatchanged --pretty=format:"%h %an %s"`
+Alumno 3: `git whatchanged --pretty=format:"%h %an %cn  %s"`
