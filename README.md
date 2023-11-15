@@ -78,16 +78,13 @@ Para exportar el repositorio usamos el siguiente comando:
 
 `git archive --format=zip main > ../Git_Intermedio.zip`
 
-## Desarrollo del ejercicio 15
-Crear ramas remotas:
-`git checkout -b ramaAlumno3`
-
-Ver todas las ramas
-`git branch`
-
-## Desarrollo del ejercicio 16
-Modificacion de fichero
-
 ## Desarrollo del ejercicio 17
-Ver las diferencias
-Alumno 3: `git whatchanged --pretty=format:"%h %an %cn  %s"`
+El comando empleado es el siguiente:
+
+Alumno 2:
+
+`git whatchanged --pretty=format:"%h %an %cn %s"`
+
+Alumno 3:
+
+`git whatchanged --pretty=format:"%h %an %cn %s"`
