@@ -78,9 +78,14 @@ Para exportar el repositorio usamos el siguiente comando:
 
 `git archive --format=zip main > ../Git_Intermedio.zip`
 
-## Desarrollo del ejercicio 14
+## Desarrollo del ejercicio 15
 Crear ramas remotas:
 `git checkout -b ramaAlumno3`
 
 Ver todas las ramas
 `git branch`
+
+## Desarrollo del ejercicio 16
+Agregar archivos:
+`git add Pantalla.java`
+`git commit -m "Agregar fichero Pantalla.java"`
