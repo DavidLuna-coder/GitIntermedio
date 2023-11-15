@@ -36,10 +36,6 @@ public class LineaDeCompra {
         return this.cod_lc;
     }
 
-    public int getCantidad_lc() {
-        return this.cantidad_lc;
-    }
-
     public float getPrecio_lc() {
         return this.precio_lc;
     }
@@ -54,54 +50,5 @@ public class LineaDeCompra {
 
     public float getPrecio_linea_compra() {
         return this.precio_linea_compra;
-    }
-
-    public Medicamento getMedicamento() {
-        return this.m;
-    }
-
-    public class LineaDeCompra {
-        private int cod_lc;
-        private int cantidad_lc;
-        private float precio_lc;
-        private Medicamento m;
-
-        public LineaDeCompra(int cantidad_, Medicamento m_) {
-            this.cantidad_lc = cantidad_;
-            this.m = m_;
-            this.precio_lc = this.m.getPrecioMedicamento() * this.cantidad_lc;
-        }
-
-        public int getCod_lc() {
-            return this.cod_lc;
-        }
-
-        public int getCantidad_lc() {
-            return this.cantidad_lc;
-        }
-
-        public float getPrecio_lc() {
-            return this.precio_lc;
-        }
-
-        public Medicamento getMedicamento() {
-            return this.m;
-        }
-
-        public int getCantidad_lc() {
-            return this.cantidad_lc;
-        }
-
-        public float getPrecio_lc() {
-            return this.precio_lc;
-        }
-
-        public Medicamento getMedicamento() {
-            return this.m;
-        }
-
-        public int getNum_cod_lc() {
-            return this.num_cod_lc;
-        }
     }
 }
