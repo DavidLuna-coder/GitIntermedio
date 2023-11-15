@@ -86,6 +86,8 @@ Ver todas las ramas
 `git branch`
 
 ## Desarrollo del ejercicio 16
-Agregar archivos:
-`git add Pantalla.java`
-`git commit -m "Agregar fichero Pantalla.java"`
+Modificacion de fichero
+
+## Desarrollo del ejercicio 17
+Ver las diferencias
+Alumno 3: `git whatchanged --pretty=format:"%h %an %s"`
