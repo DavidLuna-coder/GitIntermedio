@@ -45,3 +45,8 @@ El comando para ver la diferencia entre dos ramas es:
 
 Básicamente consiste en ejecutar el comando de `git diff <rama1> <rama2>`.
 Este ejercicio se realizó en menos de dos minutos. Hoy se come 🙂
+
+Ejercicio 17:
+
+Alumno 1:
+`git whatchanged --pretty=format:"%h |  %an |  %cn |  %s"`
