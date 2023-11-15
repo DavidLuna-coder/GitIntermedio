@@ -80,5 +80,12 @@ Para exportar el repositorio usamos el siguiente comando:
 
 
 ## Desarrollo del ejercicio 15
-Crear la rama ramaAlumno4: git branch ramaAlumno4
+Alumno 4:
+- Crear la rama ramaAlumno4: git branch ramaAlumno4
+- Publicar rama en repositorio remoto: git commit "Creación rama ramaAlumno4",  git push --set-upstream origin ramaAlumno4
 
+
+## Desarrollo del ejercicio 17
+Alumno 4:
+- Ver diferencias entre ramaAlumno4 y main: git diff ramaAlumno4..main
+- Ver historial con formato sha1, autor, commit, mensaje : git log --pretty=format:"%h - %an, %ar : %s"
