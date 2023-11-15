@@ -4,6 +4,8 @@ Los integrantes del proyecto, junto a sus roles, son:
 * David Luna Jurado (Alumno 1)
 * Alejandro Guitarte Fernández (Alumno 2)
 * Alejandro Sánchez Castillo (Alumno 2)
+* Paola Elizabeth Gomez Martinez (Alumno 3)
+* Marcos Perez Fernandez (Alumno 4)
 
 Cabe destacar que hay dos "Alumno2", lo que significa que ambos desarrollarán las mismas tareas.
 
