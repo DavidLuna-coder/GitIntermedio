@@ -74,20 +74,25 @@ Este ejercicio se realizó en menos de dos minutos. Hoy se come 🙂
 En este ejercicio, ha habido un conflicto con el README.md, ya que cada alumno ha estado documentando sus ejercicios por separados. Cuando el alumno 2 (último en subir los cambios) hizo el pull y el merge, tuvo que solucionar los conflictos.
 
 ## Desarrollo del ejercicio 13
+
 Para exportar el repositorio usamos el siguiente comando:
 
 `git archive --format=zip main > ../Git_Intermedio.zip`
 
-## Desarrollo del ejercicio 15
-Crear ramas remotas:
-`git checkout -b ramaAlumno3`
-
-Ver todas las ramas
-`git branch`
-
-## Desarrollo del ejercicio 16
-Modificacion de fichero
 
 ## Desarrollo del ejercicio 17
-Ver las diferencias
-Alumno 3: `git whatchanged --pretty=format:"%h %an %cn  %s"`
+
+Alumno 4:
+
+* Ver diferencias entre rama Alumno4 y main: git diff ramaAlumno4 main
+
+* Ver historial con formato sha1, autor, commit, mensaje : git log --pretty=format:"%h - %an, %ar : %s"
+
+Alumno 2:
+`git whatchanged --pretty=format:"%h %an %cn %s"`
+
+Alumno 3:
+`git whatchanged --pretty=format:"%h %an %cn %s"`
+
+Alumno 1:
+`git whatchanged --pretty=format:"%h |  %an |  %cn |  %s"`
