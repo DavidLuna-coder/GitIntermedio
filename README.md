@@ -96,3 +96,18 @@ Alumno 3:
 
 Alumno 1:
 `git whatchanged --pretty=format:"%h |  %an |  %cn |  %s"`
+
+## Desarrollo del ejercicio 20
+Cada alumno ha subido unos cambios diferentes, por lo que ha habido conflictos. El primero (Alumno 4) fue el ganador, de manera que hizo el push el primero, por lo que él no tuvo conflictos. Los demás tuvieron que solucionar conflictos, ya que su repositorio local no está actualizado con respecto al remoto (modificado por alumno 4), aceptando los cambios que estimaran convenientes.
+
+## Desarrollo del ejercicio 21
+El comando buscado es el siguiente:
+
+`git shortlog -sn`
+
+De esta manera, los resultados son los siguientes:
+* Alumno 2: 18
+* Alumno 3: 14
+* Alumno 1: 11
+* Alumno 4: 5
+
