@@ -111,3 +111,13 @@ De esta manera, los resultados son los siguientes:
 * Alumno 1: 11
 * Alumno 4: 5
 
+El comando pedido es: `git cherry -v main <rama>`
+
+De esta manera, veremos los commits que han ocurrido en la rama indicada y que no se han fusionado todavía en main.
+
+## Desarrollo del ejercicio 22
+Para eliminar la rama remota, ejecutaremos los siguientes dos comandos:
+
+`git branch -d investigation`
+
+`git push origin :investigation`
